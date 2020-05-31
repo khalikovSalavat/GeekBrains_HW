@@ -27,7 +27,7 @@ print("Задание-3")
 //var deposit: Double? = Double(input ?? "0")
 //input = readLine()
 var deposit: Double = 1000000
-var perc: Double = 6
+var perc: Double = 7
 var sum: Double = deposit
 for i in 1...5 {
     sum = sum + sum * perc/100
